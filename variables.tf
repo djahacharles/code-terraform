@@ -25,6 +25,6 @@ variable "my-protocol" {
 }
 
 variable "my-endpoint" {
-    default = "kouassidjaha0@gmail.com"
+    default = "dfbbvt@gmail.com"
   
 }
