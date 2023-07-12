@@ -1,0 +1,6 @@
+my_region = "us-east-1"
+my-profile = "default"
+topic_name = "sns-dev"
+my-team = "DevOps"
+my-protocol = "email"
+my-endpoint = "dfbbvt@gmail.com"
